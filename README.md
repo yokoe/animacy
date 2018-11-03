@@ -1,6 +1,8 @@
 # animacy
 Make Animation GIF easily in golang
 
+:o: Automatic median cut and dithering
+
 ## Install
 ```
 go get -u github.com/soniakeys/quant/median
